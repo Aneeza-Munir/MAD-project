@@ -1,2 +1,2 @@
-# MAD-project
-Library Management System
+# BiblioPhile
+A Book Store made with React Native and Firebase/Firestore
